@@ -1,3 +1,6 @@
+![Blue and Pink Modern Tech Electronics and Technology Retractable Exhibition Banner (1)](https://user-images.githubusercontent.com/86328211/139971152-9c0cb11b-41ad-4c28-9bf5-1a4f5e339d1f.png)
+)
+
 ### Hi there, I´m Berenice 👋
 I´m a front-end developer and photographer based in Mexico City.
 
