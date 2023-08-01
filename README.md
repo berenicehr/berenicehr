@@ -1,5 +1,3 @@
-![Diseño sin título](https://github.com/berenicehr/berenicehr/assets/86328211/f5a04acb-5f15-46fc-ac3b-cd892afdd6dd)
-
 ### Hi there, I´m Berenice 👋
 I´m a Software Engineer In Test and photographer based in Mexico City.
 
@@ -8,4 +6,4 @@ I came into code because of my willing to connect with people. I began learning 
 - 🌱 I’m currently learning Playwright
 - 👯 I’m looking to collaborate on projects and companies that help me improve my tech skills.
 
-
+![Diseño sin título](https://github.com/berenicehr/berenicehr/assets/86328211/f5a04acb-5f15-46fc-ac3b-cd892afdd6dd)
