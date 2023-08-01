@@ -1,4 +1,4 @@
-
+![Img]("C:\Users\Dell\Downloads\Diseño sin título.png")
 ### Hi there, I´m Berenice 👋
 I´m a Software Engineer In Test and photographer based in Mexico City.
 
